@@ -1,0 +1,30 @@
+/* components/FeatureSection.css */
+.feature-section {
+    background-color: #1172a6;
+    padding: 5px 310px;
+    
+  }
+  
+  .feature-content {
+    display: flex;
+    justify-content: flex-end;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.feature-item {
+    text-align: center;
+    justify-content: flex-end;
+    max-width: 300px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+  }
+  
+  p {
+    font-size: 1.1em;
+    color: #f0efef;
+  }
+  
